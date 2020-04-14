@@ -1,2 +1,2 @@
-include ':app'
+include ':app',  ':simple', ':library'
 rootProject.name='yang4anPro'
