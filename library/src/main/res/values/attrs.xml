@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomAvatarView">
+        <attr name="avatarWidth" format="reference|dimension" />
+        <attr name="avatarHeight" format="reference|dimension" />
+        <attr name="avatarDrawable" format="reference" />
+        <attr name="attestationWidth" format="reference|dimension" />
+        <attr name="attestationHeight" format="reference|dimension" />
+        <attr name="attestationDrawable" format="reference" />
+    </declare-styleable>
+
+</resources>

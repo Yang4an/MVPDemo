@@ -1,2 +1,3 @@
 include ':app',  ':simple', ':library'
 rootProject.name='yang4anPro'
+include ':jetpackdemo'
